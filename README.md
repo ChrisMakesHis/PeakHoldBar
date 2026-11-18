@@ -12,7 +12,7 @@ It shows the <b>system audio</b>: everything your Mac is playing right now.
 
 <p align="center"><a href="https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest"><b>⬇ Download (DMG)</b></a> · <a href="https://peakholdbar.com/en">peakholdbar.com</a> · Freeware</p>
 
-<p align="center"><a href="https://peakholdbar.com/en"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/keyboard.webp" width="860" alt="This is Peak Hold Bar in the Touch Bar – with title, playing time and volume."></a></p>
+<p align="center"><a href="https://peakholdbar.com/en"><img src="screenshots/site-keyboard.png" width="860" alt="This is Peak Hold Bar in the Touch Bar – with title, playing time and volume."></a></p>
 <p align="center"><sub>This is Peak Hold Bar in the Touch Bar – with title, playing time and volume.</sub></p>
 
 ## Why Peak Hold Bar exists
@@ -35,17 +35,17 @@ That's exactly the display I wanted back on my Mac. Now I'm sharing it with ever
 
 ## What it looks like
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/desktop-panel.webp" width="720" alt="The on-screen window – identical to the Touch Bar"><br><sub>The on-screen window – identical to the Touch Bar</sub></p>
+<p align="center"><img src="screenshots/site-desktop-panel.png" width="720" alt="The on-screen window – identical to the Touch Bar"><br><sub>The on-screen window – identical to the Touch Bar</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/touchbar-elements.webp" width="860" alt="Touch Bar with title, playing time and volume"><br><sub>Touch Bar with title, playing time and volume</sub></p>
+<p align="center"><img src="screenshots/site-touchbar-elements.png" width="860" alt="Touch Bar with title, playing time and volume"><br><sub>Touch Bar with title, playing time and volume</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/touchbar-amber.webp" width="860" alt="In blue, green, amber or white"><br><sub>In blue, green, amber or white</sub></p>
+<p align="center"><img src="screenshots/site-touchbar-amber.png" width="860" alt="In blue, green, amber or white"><br><sub>In blue, green, amber or white</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/menubar.webp" width="720" alt="The same display in the menu bar"><br><sub>The same display in the menu bar</sub></p>
+<p align="center"><img src="screenshots/site-menubar.png" width="720" alt="The same display in the menu bar"><br><sub>The same display in the menu bar</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/desktop-vertikal.webp" width="360" alt="Classic upright layout – like an 80s tape deck"><br><sub>Classic upright layout – like an 80s tape deck</sub></p>
+<p align="center"><img src="screenshots/site-desktop-vertikal.png" width="360" alt="Classic upright layout – like an 80s tape deck"><br><sub>Classic upright layout – like an 80s tape deck</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/keyboard-amber.webp" width="860" alt="Peak Hold Bar in amber in the Touch Bar"></p>
+<p align="center"><img src="screenshots/site-keyboard-amber.png" width="860" alt="Peak Hold Bar in amber in the Touch Bar"></p>
 
 More pictures and all the details at **[peakholdbar.com](https://peakholdbar.com/en)**.
 

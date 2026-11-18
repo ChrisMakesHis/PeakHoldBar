@@ -12,7 +12,7 @@ Es zeigt den <b>Systemton</b>: alles, was dein Mac gerade abspielt.
 
 <p align="center"><a href="https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest"><b>⬇ Download (DMG)</b></a> · <a href="https://peakholdbar.com/de">peakholdbar.com</a> · Freeware</p>
 
-<p align="center"><a href="https://peakholdbar.com/de"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/keyboard-de.webp" width="860" alt="So sieht Peak Hold Bar in der Touch Bar aus – mit Titel, Spielzeit und Lautstärke."></a></p>
+<p align="center"><a href="https://peakholdbar.com/de"><img src="screenshots/site-keyboard-de.png" width="860" alt="So sieht Peak Hold Bar in der Touch Bar aus – mit Titel, Spielzeit und Lautstärke."></a></p>
 <p align="center"><sub>So sieht Peak Hold Bar in der Touch Bar aus – mit Titel, Spielzeit und Lautstärke.</sub></p>
 
 ## Warum es Peak Hold Bar gibt
@@ -35,17 +35,17 @@ Genau diese Anzeige wollte ich auf meinem Mac wiederhaben. Jetzt teile ich sie m
 
 ## So sieht es aus
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/desktop-panel.webp" width="720" alt="Das Bildschirm-Fenster – 1:1 wie die Touch Bar"><br><sub>Das Bildschirm-Fenster – 1:1 wie die Touch Bar</sub></p>
+<p align="center"><img src="screenshots/site-desktop-panel.png" width="720" alt="Das Bildschirm-Fenster – 1:1 wie die Touch Bar"><br><sub>Das Bildschirm-Fenster – 1:1 wie die Touch Bar</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/touchbar-elements.webp" width="860" alt="Touch Bar mit Titel, Spielzeit und Lautstärke"><br><sub>Touch Bar mit Titel, Spielzeit und Lautstärke</sub></p>
+<p align="center"><img src="screenshots/site-touchbar-elements.png" width="860" alt="Touch Bar mit Titel, Spielzeit und Lautstärke"><br><sub>Touch Bar mit Titel, Spielzeit und Lautstärke</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/touchbar-amber.webp" width="860" alt="In Blau, Grün, Bernstein oder Weiß"><br><sub>In Blau, Grün, Bernstein oder Weiß</sub></p>
+<p align="center"><img src="screenshots/site-touchbar-amber.png" width="860" alt="In Blau, Grün, Bernstein oder Weiß"><br><sub>In Blau, Grün, Bernstein oder Weiß</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/menubar.webp" width="720" alt="Dieselbe Anzeige in der Menüleiste"><br><sub>Dieselbe Anzeige in der Menüleiste</sub></p>
+<p align="center"><img src="screenshots/site-menubar.png" width="720" alt="Dieselbe Anzeige in der Menüleiste"><br><sub>Dieselbe Anzeige in der Menüleiste</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/desktop-vertikal.webp" width="360" alt="Klassisch senkrecht – wie bei einem Tape Deck der 80er"><br><sub>Klassisch senkrecht – wie bei einem Tape Deck der 80er</sub></p>
+<p align="center"><img src="screenshots/site-desktop-vertikal.png" width="360" alt="Klassisch senkrecht – wie bei einem Tape Deck der 80er"><br><sub>Klassisch senkrecht – wie bei einem Tape Deck der 80er</sub></p>
 
-<p align="center"><img src="https://peakholdbar.com/user/sites/peakholdbar.com/pages/01.home/keyboard-amber-de.webp" width="860" alt="Peak Hold Bar in Bernstein in der Touch Bar"></p>
+<p align="center"><img src="screenshots/site-keyboard-amber-de.png" width="860" alt="Peak Hold Bar in Bernstein in der Touch Bar"></p>
 
 Mehr Bilder und alle Infos auf **[peakholdbar.com](https://peakholdbar.com/de)**.
 

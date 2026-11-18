@@ -100,7 +100,7 @@ Problems or questions? In the app, *Help → Send Diagnostics …* opens a mail 
 
 ## Support
 
-Like what I make? Buy me a coffee:
+Like what I do? Buy me a coffee:
 
 <a href="https://ko-fi.com/O4O6QU9NW"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="32"></a>
 

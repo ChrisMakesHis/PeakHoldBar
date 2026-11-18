@@ -5,7 +5,7 @@
 <p align="center">English · <a href="README.de.md">Deutsch</a></p>
 
 <p align="center">
-A level meter for macOS in the look of an 80s cassette deck – in the <b>Touch Bar</b>, the menu bar or as a window.<br>
+A level meter for macOS in the look of an 80s tape deck – in the <b>Touch Bar</b>, the menu bar or as a window.<br>
 Glowing segments like a vacuum fluorescent display (VFD), peak hold, red zone from 0 dB.<br>
 It shows the <b>system audio</b>: everything your Mac is playing right now.
 </p>
@@ -27,7 +27,7 @@ That's exactly the display I wanted back on my Mac. Now I'm sharing it with ever
 - **Three display locations, freely combinable:** Touch Bar, **menu bar** and a window on the screen (in the Touch Bar look or as a vertical tape deck meter). Runs on **any Mac** – the Touch Bar is a bonus, not a requirement.
 - **Title, artist and playing time** in a dot-matrix display – from the system's Now Playing (Plex, Safari/YouTube, Music, Spotify, Podcasts …), straight from a **Plex** server, or from browser tabs.
 - **Control it like a tape deck:** play/pause, next, previous and **spooling** (hold ◀◀/▶▶), volume by swiping across the Touch Bar.
-- **PEAK and AVG:** peak level like a cassette deck (20 dB/s release) or average with the peak above it. Peak hold with adjustable hold time, **OVER** indicator.
+- **PEAK and AVG:** peak level like a tape deck (20 dB/s release) or average with the peak above it. Peak hold with adjustable hold time, **OVER** indicator.
 - **Four colours:** blue (VFD), green, amber, white.
 - **In sync with AirPlay and Bluetooth:** the meter waits as long as the sound takes to reach the speaker.
 - **Light on energy:** fewer frames per second on battery and during silence, paused while the screen is locked.

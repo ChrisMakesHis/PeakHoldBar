@@ -5,7 +5,7 @@
 <p align="center"><a href="README.md">English</a> · Deutsch</p>
 
 <p align="center">
-Ein Pegelmeter für macOS im Look eines Kassettendecks der 80er-Jahre – in der <b>Touch Bar</b>, der Menüleiste oder als Fenster.<br>
+Ein Pegelmeter für macOS im Look eines Tape Decks der 80er-Jahre – in der <b>Touch Bar</b>, der Menüleiste oder als Fenster.<br>
 Leuchtsegmente wie bei einer Fluoreszenzanzeige (VFD), Peak-Hold, roter Bereich ab 0 dB.<br>
 Es zeigt den <b>Systemton</b>: alles, was dein Mac gerade abspielt.
 </p>
@@ -17,7 +17,7 @@ Es zeigt den <b>Systemton</b>: alles, was dein Mac gerade abspielt.
 
 ## Warum es Peak Hold Bar gibt
 
-Ich habe Peak Hold Bar für mich gebaut. Früher lag ich oft vor meinem Tapedeck und habe der Musik beim Spielen zugeschaut: den Leuchtsegmenten, die im Takt hochspringen und an der Spitze kurz hängen bleiben. Manchmal habe ich das Deck sogar auf Aufnahme gestellt, wenn ich nur CD oder Radio gehört habe – nur um die Aussteuerungsanzeige zappeln zu sehen.
+Ich habe Peak Hold Bar für mich gebaut. Früher lag ich oft vor meinem Tape Deck und habe der Musik beim Spielen zugeschaut: den Leuchtsegmenten, die im Takt hochspringen und an der Spitze kurz hängen bleiben. Manchmal habe ich das Deck sogar auf Aufnahme gestellt, wenn ich nur CD oder Radio gehört habe – nur um die Aussteuerungsanzeige zappeln zu sehen.
 
 Genau diese Anzeige wollte ich auf meinem Mac wiederhaben. Jetzt teile ich sie mit allen, die das auch vermissen.
 
@@ -26,8 +26,8 @@ Genau diese Anzeige wollte ich auf meinem Mac wiederhaben. Jetzt teile ich sie m
 - **Systemton ohne Zusatztreiber:** nutzt die Systemaudio-Erfassung von macOS. Kein virtuelles Audiogerät, keine Kernel-Erweiterung.
 - **Drei Anzeigeorte, frei kombinierbar:** Touch Bar, **Menüleiste** und ein Fenster auf dem Bildschirm (im Touch-Bar-Look oder als vertikales Tape-Deck-Meter). Läuft auf **jedem Mac** – die Touch Bar ist ein Extra, kein Muss.
 - **Titel, Interpret und Spielzeit** in einer Punktmatrix-Anzeige – aus „Läuft gerade“ des Systems (Plex, Safari/YouTube, Musik, Spotify, Podcasts …), direkt vom **Plex**-Server oder aus Browser-Tabs.
-- **Bedienen wie ein Tapedeck:** Play/Pause, Weiter, Zurück und **Spulen** (◀◀/▶▶ halten), Lautstärke per Wischen über die Touch Bar.
-- **PEAK und AVG:** Spitzenpegel wie beim Kassettendeck (20 dB/s Abfall) oder Durchschnitt mit Spitze darüber. Peak-Hold mit einstellbarer Haltedauer, **OVER**-Anzeige.
+- **Bedienen wie ein Tape Deck:** Play/Pause, Weiter, Zurück und **Spulen** (◀◀/▶▶ halten), Lautstärke per Wischen über die Touch Bar.
+- **PEAK und AVG:** Spitzenpegel wie beim Tape Deck (20 dB/s Abfall) oder Durchschnitt mit Spitze darüber. Peak-Hold mit einstellbarer Haltedauer, **OVER**-Anzeige.
 - **Vier Farben:** Blau (VFD), Grün, Bernstein, Weiß.
 - **Synchron bei AirPlay und Bluetooth:** Das Meter wartet so lange, wie der Ton zum Lautsprecher braucht.
 - **Sparsam:** weniger Bilder pro Sekunde im Akkubetrieb und bei Stille, Pause bei gesperrtem Bildschirm.

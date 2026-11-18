@@ -10,7 +10,7 @@ Glowing segments like a vacuum fluorescent display (VFD), peak hold, red zone fr
 It shows the <b>system audio</b>: everything your Mac is playing right now.
 </p>
 
-<p align="center"><a href="https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest"><b>⬇ Download (DMG)</b></a> · <a href="https://peakholdbar.com/en">peakholdbar.com</a> · Freeware</p>
+<p align="center"><a href="https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest/download/Peak-Hold-Bar.dmg"><b>⬇ Download (DMG)</b></a> · <a href="https://peakholdbar.com/en">peakholdbar.com</a> · Freeware</p>
 
 <p align="center"><a href="https://peakholdbar.com/en"><img src="screenshots/site-keyboard.png" width="860" alt="This is Peak Hold Bar in the Touch Bar – with title, playing time and volume."></a></p>
 <p align="center"><sub>This is Peak Hold Bar in the Touch Bar – with title, playing time and volume.</sub></p>
@@ -67,7 +67,7 @@ More pictures and all the details at **[peakholdbar.com](https://peakholdbar.com
 
 ## Installation
 
-1. Download the latest **`Peak-Hold-Bar-x.y.z.dmg`** from [Releases](https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest).
+1. Download **[`Peak-Hold-Bar.dmg`](https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest/download/Peak-Hold-Bar.dmg)** – always the newest version (all versions under [Releases](https://github.com/ChrisMakesHis/PeakHoldBar/releases)).
 2. Open the DMG and drag **Peak Hold Bar** to the **Applications** folder.
 3. Launch it. The app is signed with a Developer ID and notarized by Apple – it opens without a Gatekeeper warning.
 

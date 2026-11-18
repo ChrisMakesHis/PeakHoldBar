@@ -10,7 +10,7 @@ Leuchtsegmente wie bei einer Fluoreszenzanzeige (VFD), Peak-Hold, roter Bereich 
 Es zeigt den <b>Systemton</b>: alles, was dein Mac gerade abspielt.
 </p>
 
-<p align="center"><a href="https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest"><b>⬇ Download (DMG)</b></a> · <a href="https://peakholdbar.com/de">peakholdbar.com</a> · Freeware</p>
+<p align="center"><a href="https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest/download/Peak-Hold-Bar.dmg"><b>⬇ Download (DMG)</b></a> · <a href="https://peakholdbar.com/de">peakholdbar.com</a> · Freeware</p>
 
 <p align="center"><a href="https://peakholdbar.com/de"><img src="screenshots/site-keyboard-de.png" width="860" alt="So sieht Peak Hold Bar in der Touch Bar aus – mit Titel, Spielzeit und Lautstärke."></a></p>
 <p align="center"><sub>So sieht Peak Hold Bar in der Touch Bar aus – mit Titel, Spielzeit und Lautstärke.</sub></p>
@@ -67,7 +67,7 @@ Mehr Bilder und alle Infos auf **[peakholdbar.com](https://peakholdbar.com/de)**
 
 ## Installation
 
-1. Die neueste **`Peak-Hold-Bar-x.y.z.dmg`** unter [Releases](https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest) laden.
+1. **[`Peak-Hold-Bar.dmg`](https://github.com/ChrisMakesHis/PeakHoldBar/releases/latest/download/Peak-Hold-Bar.dmg)** laden – immer die neueste Version (alle Versionen unter [Releases](https://github.com/ChrisMakesHis/PeakHoldBar/releases)).
 2. DMG öffnen und **Peak Hold Bar** in den Ordner **Programme** ziehen.
 3. Starten. Die App ist mit einer Developer ID signiert und von Apple notarisiert – sie öffnet sich ohne Gatekeeper-Warnung.
 

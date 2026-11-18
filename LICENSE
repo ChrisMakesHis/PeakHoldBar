@@ -1,0 +1,82 @@
+Peak Hold Bar – Lizenz (Freeware) / License (freeware)
+© 2026 Christoph Deppe. Alle Rechte vorbehalten. All rights reserved.
+
+DEUTSCH
+
+1. Nutzung: Du darfst Peak Hold Bar kostenlos auf beliebig vielen eigenen Macs
+   installieren und privat oder beruflich nutzen.
+2. Nicht erlaubt: die App oder Teile davon zu verkaufen, zu vermieten oder
+   weiterzuverbreiten (auch nicht über eigene Download-Seiten oder
+   App-Sammlungen), sie zu verändern, zu dekompilieren oder per Reverse
+   Engineering zu untersuchen, soweit das Gesetz es nicht ausdrücklich erlaubt.
+   Auf die offizielle Download-Seite zu verlinken, ist ausdrücklich erwünscht.
+3. Keine Gewährleistung: Die App wird kostenlos und „wie sie ist“
+   bereitgestellt, ohne Zusage bestimmter Eigenschaften oder ständiger
+   Verfügbarkeit.
+4. Haftung: Der Entwickler haftet nur für Vorsatz und grobe Fahrlässigkeit
+   sowie nach zwingenden gesetzlichen Vorschriften (z. B. Produkthaftungsgesetz,
+   Verletzung von Leben, Körper oder Gesundheit).
+5. Spenden (z. B. über Ko-fi) sind freiwillig und begründen keinen Anspruch auf
+   Funktionen, Support oder Updates.
+6. Es gilt deutsches Recht.
+
+ENGLISH
+
+1. Use: You may install Peak Hold Bar free of charge on any number of your own
+   Macs and use it privately or commercially.
+2. Not permitted: selling, renting or redistributing the app or parts of it
+   (including via your own download pages or app collections), modifying,
+   decompiling or reverse engineering it, except where expressly permitted by
+   law. Linking to the official download page is welcome.
+3. No warranty: The app is provided free of charge and "as is", without any
+   promise of specific features or continued availability.
+4. Liability: The developer is liable only for intent and gross negligence and
+   where mandatory law requires (e.g. product liability, injury to life, body
+   or health).
+5. Donations (e.g. via Ko-fi) are voluntary and give no claim to features,
+   support or updates.
+6. German law applies.
+
+FREMDKOMPONENTEN / THIRD-PARTY COMPONENTS
+
+Peak Hold Bar enthält mediaremote-adapter von Jonas van den Berg und
+Mitwirkenden (https://github.com/ungive/mediaremote-adapter), lizenziert unter
+der BSD-3-Clause-Lizenz. Der vollständige Lizenztext liegt der App bei und
+steht im Lizenzfenster der App.
+
+Peak Hold Bar includes mediaremote-adapter by Jonas van den Berg and
+contributors (https://github.com/ungive/mediaremote-adapter), licensed under
+the BSD 3-Clause License. The full licence text is included with the app and
+shown in the app's licence window.
+
+
+MEDIAREMOTE-ADAPTER – BSD 3-CLAUSE LICENSE
+
+BSD 3-Clause License
+
+Copyright (c) 2025, Jonas van den Berg and contributors
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
